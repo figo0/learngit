@@ -6,4 +6,5 @@ Git is a free software distributed under the GPL;
 switch to slt
 
 add slt_copy
+checkout slt copy
 
