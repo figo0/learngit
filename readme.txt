@@ -4,3 +4,6 @@ Git is a tracks changes of files
 Git is a free software distributed under the GPL;
 
 switch to slt
+
+add slt_copy
+
